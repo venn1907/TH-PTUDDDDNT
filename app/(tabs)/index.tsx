@@ -1,13 +1,13 @@
 import { createStackNavigator } from "@react-navigation/stack";
-import Lab1 from "./lab1";
-import Project1 from "./Lab1/Project1";
-import Project2 from "./Lab1/Project2";
-import Project3 from "./Lab1/Project3";
-import Project4 from "./Lab1/Project4";
-import Project5 from "./Lab1/Project5";
-import Project6 from "./Lab1/Project6";
-import Project7 from "./Lab1/Project7";
-import Project8 from "./Lab1/Project8";
+import Lab1 from "./ThucHanh/Lab1/lab1";
+import Project1 from "./ThucHanh/Lab1/Project1";
+import Project2 from "./ThucHanh/Lab1/Project2";
+import Project3 from "./ThucHanh/Lab1/Project3";
+import Project4 from "./ThucHanh/Lab1/Project4";
+import Project5 from "./ThucHanh/Lab1/Project5";
+import Project6 from "./ThucHanh/Lab1/Project6";
+import Project7 from "./ThucHanh/Lab1/Project7";
+import Project8 from "./ThucHanh/Lab1/Project8";
 
 const Stack = createStackNavigator();
 
